@@ -1,0 +1,30 @@
+h1, h2, h3, h4, h5, h6 {
+
+  font-family: 'Libre Baskerville', serif;
+
+}
+
+
+p {
+
+  font-family: 'Libre Franklin', sans-serif;
+
+}
+
+.row {
+
+  padding-bottom: 5px;
+
+}
+
+.vertical-spacer {
+
+  height:30px;
+
+}
+
+.vertical-spacer-large {
+
+  height:75px;
+
+}
